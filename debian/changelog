@@ -1,12 +1,7 @@
-icons-bytesize-icons (1.0.1-1) unstable; urgency=medium
+icons-bytesize-icons (1.0.0) unstable; urgency=medium
 
+  * Packaging as icons-bytesize-icons with iconlibutils launcher.
   * Install prebuilt index/ web preview and FAISS faiss.* beside icons.
   * library.iconlib: icons_root + faiss_index for natural-language search.
 
- -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:28:58 +0800
-
-icons-bytesize-icons (1.0.0-1) unstable; urgency=medium
-
-  * Packaging as icons-bytesize-icons with iconlibutils launcher and preview index.
-
- -- Lenik (谢继雷) <lenik@bodz.net>  Fri, 11 Sep 2026 20:13:42 +0800
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:30:57 +0800

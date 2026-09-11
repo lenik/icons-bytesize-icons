@@ -1,5 +1,5 @@
 project('icons-bytesize-icons',
-  version: '1.0.1',
+  version: '1.0.0',
   license: 'MIT',
   meson_version: '>= 0.61.0')
 
