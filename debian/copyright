@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: bytesize-icons
+Source: https://github.com/danklammer/bytesize-icons.git
+
+Files: *
+Copyright: Upstream authors
+License: MIT
+
+Files: debian/*
+Copyright: 2026 Lenik <icons-bytesize-icons@bodz.net>
+License: MIT
