@@ -2,7 +2,8 @@ Source: icons-bytesize-icons
 Section: graphics
 Priority: optional
 Maintainer: Lenik (谢继雷) <lenik@bodz.net>
-Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
+Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils,
+ asciidoctor
 Standards-Version: 4.6.2
 Homepage: https://danklammer.com/bytesize-icons/
 Vcs-Browser: https://github.com/lenik/icons-bytesize-icons
@@ -12,7 +13,8 @@ Rules-Requires-Root: no
 Package: icons-bytesize-icons
 Architecture: all
 Depends: ${misc:Depends},
-         iconlibutils
+         iconlibutils,
+ bash-shlib,
 Description: Bytesize Icons
  Bytesize Icons
  .
