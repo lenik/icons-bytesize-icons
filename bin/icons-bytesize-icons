@@ -1,2 +1,2 @@
 #!/bin/sh
-exec iconlibutils -l bytesize-icons "$@"
+exec iconlib -l bytesize-icons "$@"
