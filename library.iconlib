@@ -8,4 +8,4 @@ homepage=https://danklammer.com/bytesize-icons/
 description=Bytesize Icons
 package=icons-bytesize-icons
 icons_root=orig/dist/icons
-faiss_index=/usr/share/icons-bytesize-icons
+faiss_index=faiss
